@@ -14,10 +14,10 @@ he can analyze each stock and he can expand hi research as well.
 
 From the below analysis it is clear between 2017 and 2018 a shift in sentiment happened on green stocks, with the notable expectations of ENPH and RUN. Both ENPTH and RUN produced outsized returns in both 2017 and 2018 while green stocks on a whole performed poorly after having a healthy 2017. It is also notable that both ENPH and RUN had higher trading volumes on average then their peer group in both years, which could indicate higher interest in these stocks from the broader market.
 
-![Alt text](url "Title")
+![Alt text](https://github.com/salvamike/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
-![Alt text](url "Title")
+![Alt text](https://github.com/salvamike/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
 ## Summary
